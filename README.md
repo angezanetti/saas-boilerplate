@@ -1,6 +1,23 @@
 # Liste des meilleurs SaaS Boilerplates
 
-Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre prochaine application ? Découvrez ci-dessous une sélection de boilerplates classés par technologie. Chaque **SaaS boilerplate** fournit des fonctionnalités prêtes à l’emploi qui vous permettent de gagner du temps de développement et de vous concentrer sur l’essentiel : bâtir un produit de qualité.
+Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre prochaine application ? 
+
+Découvrez ci-dessous une sélection de boilerplates classés par technologie. 
+
+N’hésitez pas à proposer le vôtre en créant une Pull Request !
+
+### Contribuer
+
+**Règles**  
+- Placez votre boilerplate dans la catégorie appropriée.  
+- N'oubliez pas de renseigner les fonctionnalités principales et le prix du boilerplate.
+
+Chaque **SaaS boilerplate** fournit des fonctionnalités prêtes à l’emploi qui vous permettent de gagner du temps de développement et de vous concentrer sur l’essentiel : bâtir un produit de qualité.
+
+### Astuces
+
+1. ⭐ **Ajoutez une étoile à ce repo** pour en accroître la visibilité ⭐  
+2. **Enregistrez cette page** pour y revenir plus tard et découvrir les nouveautés 📆  
 
 ---
 
@@ -28,7 +45,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 ## Next.js SaaS Boilerplates
 
 ### 1. Shipfast
-- **Utilisateurs**: 6044  
+- **Prix**: \$199-\$299  
 - **Lien**: [Shipfast](https://shipfa.st/?via=sb)  
 - **Fonctionnalités principales**:  
   - Authentification des utilisateurs  
@@ -38,43 +55,50 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
   - Mode sombre  
   - Composants et animations  
   - Tutoriels  
+- **Payment Providers**: Stripe  
 - **Backend**: Next.js, Mailgun, NextAuth, MongoDB  
 - **Frontend**: Tailwind CSS  
 
 ### 2. Divjoy
-- **Utilisateurs**: 12323  
+- **Prix**: \$199  
 - **Lien**: [Divjoy](https://divjoy.com?via=sb)  
 - **Fonctionnalités principales**:  
   - Authentification  
   - Gestion des paramètres  
   - Grilles de prix personnalisables  
   - Intégrations React et Next.js  
+- **Payment Providers**: Stripe  
 - **Backend**: Node.js, React, Next.js, Firebase Auth, Supabase, Auth0, Cloud Firestore  
 - **Frontend**: Tailwind CSS, Bootstrap CSS, Material UI, Bulma UI  
 
 ### 3. Makerkit
-- **Utilisateurs**: 12323  
+- **Prix**: \$0-\$599  
 - **Lien**: [Makerkit](https://makerkit.lemonsqueezy.com?aff=MqnY1)  
 - **Fonctionnalités principales**:  
   - Authentification  
   - Réinitialisation de mot de passe  
   - Comptes multi-fournisseurs  
-  - Tableaux de bord personnalisables  
+  - Tableau de bord  
   - Tests E2E (Cypress)  
+- **Payment Providers**: Stripe  
 - **Backend**: React, TypeScript, Next.js, Remix, Firebase, Supabase  
 - **Frontend**: Tailwind, Headless UI  
 
 ### 4. SaaS UI
+- **Prix**: \$0-\$4500  
 - **Lien**: [SaaS UI](https://saas-ui.dev?aff=MqnY1)  
 - **Fonctionnalités principales**:  
   - Authentification  
-  - Facturation  
+  - Abonnements  
+  - Factures  
   - Bibliothèque de composants  
   - Onboarding  
+- **Payment Providers**: Lemon Squeezy  
 - **Backend**: Node.js, React, Next.js, Electron, Supabase, Magic.link  
 - **Frontend**: SaaS UI, Chakra UI  
 
 ### 5. Nextbase
+- **Prix**: \$99-\$399  
 - **Lien**: [Nextbase](https://usenextbase.com)  
 - **Fonctionnalités principales**:  
   - Authentification utilisateurs  
@@ -82,56 +106,67 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
   - Paramètres utilisateur  
   - Téléchargement de contenu  
   - Panneau d’administration  
+- **Payment Providers**: Stripe  
 - **Backend**: Next.js, Supabase, TypeScript  
 - **Frontend**: Unstyled Components  
 
 ### 6. Shipped
-- **Utilisateurs**: 297  
+- **Prix**: \$157-\$207  
 - **Lien**: [Shipped](https://shipped.club?aff=MqnY1)  
 - **Fonctionnalités principales**:  
   - Authentification  
+  - Abonnements  
   - Connexions sociales  
   - Liens magiques  
-  - Pages de blog prêtes à l’emploi  
+  - Blog basé sur Markdown  
+- **Payment Providers**: Lemon Squeezy  
 - **Backend**: Node.js, React, Next.js, TypeScript  
 - **Frontend**: Tailwind CSS  
 
 ### 7. Supaboost
-- **Utilisateurs**: 35  
+- **Prix**: \$150  
 - **Lien**: [Supaboost](https://www.supaboost.dev/?aff=MqnY1)  
 - **Fonctionnalités principales**:  
   - Authentification  
-  - Interface intuitive  
+  - Abonnements  
+  - Factures  
+  - Interface utilisateur intuitive  
   - Gestion d’état et validation  
-  - Configuration Next.js + Supabase  
+- **Payment Providers**: Lemon Squeezy  
 - **Backend**: Node.js, React, Next.js, Supabase, TypeScript  
 - **Frontend**: Shadcn UI  
 
 ### 8. Supastarter
-- **Utilisateurs**: 600+  
+- **Prix**: \$299  
 - **Lien**: [Supastarter](https://supastarter.dev?aff=MqnY1)  
 - **Fonctionnalités principales**:  
   - Authentification  
+  - Abonnements  
   - Internationalisation  
   - Blog  
+- **Payment Providers**: Stripe  
 - **Backend**: Next.js, Supabase  
 - **Frontend**: Tailwind CSS, Chakra UI  
 
 ### 9. Bedrock
+- **Prix**: \$1  
 - **Lien**: [Bedrock](https://bedrock.mxstbr.com/)  
 - **Fonctionnalités principales**:  
   - Authentification utilisateur  
   - Support d’équipe  
-  - Statistiques avancées  
+  - Paiements par abonnement  
+- **Payment Providers**: Paddle, Stripe  
 - **Backend**: React, Next.js, GraphQL, TypeScript, Prisma  
 - **Frontend**: Tailwind CSS, Vue.js, Bootstrap CSS  
 
 ### 10. Nextacular
+- **Prix**: FREE  
 - **Lien**: [Nextacular](https://nextacular.co/)  
 - **Fonctionnalités principales**:  
-  - Authentification  
+  - Facturation et abonnements  
   - Multi-tenancy  
-  - Gestion de comptes multiples  
+  - Authentification  
+- **Payment Providers**: Stripe  
 - **Backend**: Next.js, Prisma  
 - **Frontend**: Tailwind CSS  
 
@@ -140,6 +175,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 ## Node.js SaaS Boilerplates
 
 ### 1. Scale To Zero AWS
+- **Prix**: \$108  
 - **Utilisateurs**: 76  
 - **Lien**: [Scale To Zero AWS](https://scaletozeroaws.com/)  
 - **Fonctionnalités principales**:  
@@ -150,6 +186,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 - **Frontend**: Tailwind CSS, Bootstrap CSS, Bulma UI  
 
 ### 2. Gravity
+- **Prix**: \$556-\$6996 
 - **Lien**: [Gravity](https://usegravity.app?ref=sb)  
 - **Fonctionnalités principales**:  
   - Authentification  
@@ -164,25 +201,27 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 ## Django SaaS Boilerplates
 
 ### 1. Saas Pegasus
-- **Utilisateurs**: 1555  
+- **Prix**: \$249-\$999  
 - **Lien**: [Saas Pegasus](https://www.saaspegasus.com/?via=sb)  
 - **Fonctionnalités principales**:  
   - Comptes utilisateur  
   - Équipes et invitations  
-  - CMS intégré  
-  - Auth à deux facteurs  
+  - Abonnements  
+  - Système de gestion de contenu  
+- **Payment Providers**: Stripe  
 - **Backend**: Django  
-- **Frontend**: Tailwind CSS, React, Vue.js, HTMX  
+- **Frontend**: TailwindCSS, React, Vue.js, HTMX  
 
 ### 2. Advantch
-- **Utilisateurs**: 12323  
+- **Prix**: \$750-\$1450  
 - **Lien**: [Advantch](https://www.advantch.com/?ref=saasboilerplate.fr)  
 - **Fonctionnalités principales**:  
   - Panneau de contrôle  
   - API REST  
-  - Tests & CI  
-  - Graphiques, Éditeur de code  
+  - Graphiques  
   - Docker  
+  - Tests & CI  
+- **Payment Providers**: Stripe  
 - **Backend**: Laravel  
 - **Frontend**: Tailwind CSS  
 
@@ -191,7 +230,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 ## Laravel SaaS Boilerplates
 
 ### 1. Larafast
-- **Utilisateurs**: 360+  
+- **Prix**: \$149-\$199  
 - **Lien**: [Larafast](https://larafast.com?aff=MqnY1)  
 - **Fonctionnalités principales**:  
   - Authentification sociale  
@@ -199,54 +238,64 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
   - Tableau de bord admin  
   - Blog intégré  
   - Intégration OpenAI  
+- **Payment Providers**: Stripe, LemonSqueezy, Paddle  
 - **Backend**: Laravel 11, Laravel Livewire, Laravel Cashier, Laravel Envoy  
 - **Frontend**: Tailwind CSS, DaisyUI, Vue.js, Alpine.js, Blade  
 
 ### 2. Spark
+- **Prix**: \$99-\$199  
 - **Lien**: [Laravel Spark](https://spark.laravel.com/?ref=saasboilerplate.fr)  
 - **Fonctionnalités principales**:  
   - Authentification  
   - Gestion d’équipes  
-  - Modules Laravel Jetstream et Breeze  
-- **Backend**: Laravel, Jetstream, Breeze, Cashier  
+  - Facturation au poste (per seat)  
+- **Payment Providers**: Paddle, Stripe  
+- **Backend**: Laravel, Laravel Jetstream, Laravel Breeze, Laravel Cashier  
 - **Frontend**: Tailwind CSS, Bootstrap CSS, Blade, Vue.js  
 
 ### 3. Tenancy for Laravel
+- **Prix**: \$199-\$379  
 - **Lien**: [Tenancy for Laravel](https://tenancyforlaravel.com/saas-boilerplate/)  
 - **Fonctionnalités principales**:  
   - Multi-tenant  
   - Panneau d’administration Nova  
   - Gestion de domaines  
   - Suite de tests tenant-aware  
+- **Payment Providers**: *(non spécifié)*  
 - **Backend**: Laravel  
 - **Frontend**: Bootstrap CSS  
 
 ### 4. Wave
+- **Prix**: FREE  
 - **Lien**: [Wave](https://devdojo.com/wave)  
 - **Fonctionnalités principales**:  
   - Authentification  
   - Profils utilisateur  
-  - Blog  
+  - Abonnements  
   - Notifications et annonces  
-  - Admin Voyager  
+  - Blog  
+- **Payment Providers**: Stripe  
 - **Backend**: Laravel, Voyager  
 - **Frontend**: Tailwind CSS  
 
 ### 5. Nana
+- **Prix**: \$299-449  
 - **Lien**: [Nana](https://saasstarterkit.app/)  
 - **Fonctionnalités principales**:  
   - Authentification  
   - CI/CD GitLab  
   - Kubernetes & Helm  
   - Compatibilité PHP 8 & MySQL 8  
+- **Payment Providers**: Paddle, Stripe  
 - **Backend**: Laravel  
-- **Frontend**: Tailwind CSS  
+- **Frontend**: Tailwind CSS
 
 ---
 
 ## ASP.NET SaaS Boilerplates
 
 ### 1. ASP.NET Zero
+- **Prix**: \$2999-\$9999  
 - **Lien**: [ASP.NET Zero](https://aspnetzero.com/)  
 - **Fonctionnalités principales**:  
   - Multi-Tenancy  
@@ -258,6 +307,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 - **Frontend**: Angular, jQuery, Bootstrap CSS, Metronic UI  
 
 ### 2. ABP
+- **Prix**: \$0-\$9999  
 - **Lien**: [ABP](https://abp.io/)  
 - **Fonctionnalités principales**:  
   - Multi-tenancy  
@@ -267,6 +317,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 - **Frontend**: Angular UI, Razor Pages, Blazor  
 
 ### 3. Net Core SaaS
+- **Prix**: \$299  
 - **Lien**: [Net Core SaaS](https://netcoresaas.com)  
 - **Fonctionnalités principales**:  
   - Authentification  
@@ -277,6 +328,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 - **Frontend**: Tailwind CSS, Vue  
 
 ### 4. Blazorplate
+- **Prix**: \$375-\$749  
 - **Lien**: [Blazorplate](https://www.blazorplate.net/)  
 - **Fonctionnalités principales**:  
   - Autorisation par rôles  
@@ -286,6 +338,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 - **Frontend**: Blazor, MudBlazor UI  
 
 ### 5. NanoASP
+- **Prix**: \$99-\$149  
 - **Lien**: [NanoASP](https://aspnano.com/)  
 - **Fonctionnalités principales**:  
   - Authentification  
@@ -299,6 +352,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 ## Svelte SaaS Boilerplates
 
 ### 1. LaunchFast
+- **Prix**: \$99-\$249  
 - **Utilisateurs**: 70+  
 - **Lien**: [LaunchFast Templates](https://code-templates.lemonsqueezy.com?aff=MqnY1)  
 - **Fonctionnalités principales**:  
@@ -311,6 +365,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 - **Frontend**: Tailwind CSS  
 
 ### 2. Just Launch
+- **Prix**: \$169-\$199  
 - **Utilisateurs**: 41  
 - **Lien**: [Just Launch](https://www.justlaunch.it/)  
 - **Fonctionnalités principales**:  
@@ -325,6 +380,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 ## Express.js SaaS Boilerplates
 
 ### 1. Turbojet
+- **Prix**: \$390-\$780  
 - **Lien**: [Turbojet](https://www.turbojet.co/)  
 - **Fonctionnalités principales**:  
   - Équipes  
@@ -335,6 +391,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 - **Frontend**: Bootstrap CSS, Handlebars, Hotwire Turbo  
 
 ### 2. Modern Mern
+- **Prix**: \$699-\$2099  
 - **Lien**: [Modern Mern](https://modernmern.com/)  
 - **Fonctionnalités principales**:  
   - Authentification  
@@ -349,6 +406,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 ## Python SaaS Boilerplates
 
 ### 1. GeniePy
+- **Prix**: \$129  
 - **Lien**: [GeniePy](https://geniepy.com/)  
 - **Fonctionnalités principales**:  
   - Gestion des utilisateurs  
@@ -364,6 +422,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 ## Ruby on Rails SaaS Boilerplates
 
 ### 1. Jumpstart
+- **Prix**: \$249-\$749  
 - **Utilisateurs**: 1555  
 - **Lien**: [Jumpstart](https://jumpstartrails.com/)  
 - **Fonctionnalités principales**:  
@@ -375,6 +434,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 - **Frontend**: Tailwind CSS  
 
 ### 2. Bullet Train
+- **Prix**: FREE  
 - **Lien**: [Bullet Train](https://bullettrain.co/)  
 - **Fonctionnalités principales**:  
   - Authentification  
@@ -389,6 +449,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 ## Remix SaaS Boilerplates
 
 ### 1. SAASROCK
+- **Prix**: \$149-\$1999  
 - **Utilisateurs**: 1382  
 - **Lien**: [SAASROCK](https://saasrock.com/?via=sb)  
 - **Fonctionnalités principales**:  
@@ -414,6 +475,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 ## Flask SaaS Boilerplates
 
 ### 1. ShipFlask
+- **Prix**: \$149-\$199  
 - **Lien**: [ShipFlask](https://shipflask.com/)  
 - **Fonctionnalités principales**:  
   - Authentification (Auth0)  
@@ -423,6 +485,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 - **Frontend**: AJAX  
 
 ### 2. Ignite
+- **Prix**: \$149-\$299  
 - **Lien**: [Ignite](https://www.newline.co/fullstack-flask)  
 - **Fonctionnalités principales**:  
   - Authentification  
@@ -437,6 +500,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 ## Phoenix SaaS Boilerplates
 
 ### 1. Petal
+- **Prix**: \$299  
 - **Utilisateurs**: 1804  
 - **Lien**: [Petal](https://petal.build/)  
 - **Fonctionnalités principales**:  
@@ -449,6 +513,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 - **Frontend**: Tailwind CSS  
 
 ### 2. LiveSAASKIT
+- **Prix**: \$99  
 - **Lien**: [LiveSAASKIT](https://livesaaskit.com/)  
 - **Fonctionnalités principales**:  
   - Phoenix LiveView  
@@ -464,6 +529,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 ## Vue.js SaaS Boilerplates
 
 ### 1. Nodewood
+- **Prix**: \$295-595  
 - **Lien**: [Nodewood](https://nodewood.com/)  
 - **Fonctionnalités principales**:  
   - Administration des utilisateurs  
@@ -477,6 +543,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 ## Golang SaaS Boilerplates
 
 ### 1. Go SaaS Startup Kit
+- **Prix**: FREE  
 - **Lien**: [Go SaaS Startup Kit](https://saasstartupkit.com/)  
 - **Fonctionnalités principales**:  
   - Inscription et authentification  
@@ -486,6 +553,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 - **Frontend**: Bootstrap CSS  
 
 ### 2. Autostrada
+- **Prix**: FREE  
 - **Utilisateurs**: 17581  
 - **Lien**: [Autostrada](https://autostrada.dev/)  
 - **Fonctionnalités principales**:  
@@ -500,6 +568,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 ## Symfony SaaS Boilerplates
 
 ### 1. Parthenon
+- **Prix**: FREE  
 - **Lien**: [Parthenon](https://getparthenon.com/)  
 - **Fonctionnalités principales**:  
   - Système d’utilisateur  
@@ -511,6 +580,7 @@ Vous cherchez un **SaaS boilerplate** pour accélérer le lancement de votre pro
 - **Frontend**: Vue 3, Vuex 4, Tailwind CSS, Vitest, Axios, Font Awesome  
 
 ### 2. Kitto
+- **Prix**: €199  
 - **Lien**: [Kitto](https://kitto.fr/)  
 - **Fonctionnalités principales**:  
   - Authentification  
